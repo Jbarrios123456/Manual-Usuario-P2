@@ -54,7 +54,7 @@ Para ejecutar mi proyecto en las diferentes aplicaciones lo unico que necesita s
   En esta funcion el programa ordenara alfabeticamente las letras de una palabra ingresada por el usuario
   <img width="345" height="224" alt="image" src="https://github.com/user-attachments/assets/81aed7be-f848-419b-9d77-8d88dfed0cec" />
 
- ## Funcion Palindromo C++)
+ ## Funcion Palindromo (C++)
   En esta funcion el programa le pedira una palabra y verificara si la palabra ingresada es un palindromo o no
   <img width="391" height="226" alt="image" src="https://github.com/user-attachments/assets/06f8ee57-7bad-4107-8cab-4b0fc39ef7aa" />
   <img width="379" height="222" alt="image" src="https://github.com/user-attachments/assets/81058ece-c233-4f69-9b17-f84448371245" />
