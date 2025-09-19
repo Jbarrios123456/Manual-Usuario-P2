@@ -20,4 +20,10 @@ Adjunto link si no posee alguno de los 2
 # Funciones de mi proyecto
 Para ejecutar mi proyecto en las diferentes aplicaciones lo unico que necesita son los codigos para cada aplicacion (Archivos subidos en el repositorio de mi proryecto), cada archivo tiene su respectivo nombre proyecto 2 y una pequeña guia de que archivo es para cada aplicación(C++ = .Cpp) (Phyton = .py)
 
-## Algoritmo en lenguaje C++
+## Algoritmos en Funcionamiento
+> [!Note]
+> En cada funcion/calculos con matrices (en el lenguaje/formato C++) se le preguntara si desea que generar la matriz de manera aleatoria o si el usuario quiere llenar los datos
+> de manera manual, en los ejemplos que se le mostraran de c++ se elejira la opción de generar de manera aleatoria, en formato phyton se ingresaran de manera manual.
+
+
+
